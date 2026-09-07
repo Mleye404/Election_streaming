@@ -1,24 +1,3 @@
-Oui mec, exactement 👌🔥
-
-**`installation.md`** = comment installer et lancer le projet, commandes détaillées.
-
-**`README.md`** = la vitrine du projet sur GitHub. Il doit expliquer rapidement :
-
-* 🎯 le problème / objectif ;
-* 🏗️ l'architecture ;
-* 🔄 le pipeline ;
-* 🛠️ les technologies ;
-* 📊 les fonctionnalités ;
-* 🔒 éventuellement les aspects de fiabilité/sécurité ;
-* 🚀 comment démarrer rapidement ;
-* 📁 la structure du projet.
-
-Je te conseille de ne pas faire un README trop long, parce que tu as déjà `installation.md` pour les détails d'installation.
-
-Voici une version propre que tu peux **copier-coller directement dans GitHub** 👇
-
----
-
 # 🗳️ Election Streaming — Real-Time Data Pipeline
 
 ## 📌 Présentation
