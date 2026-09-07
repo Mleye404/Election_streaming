@@ -1,0 +1,571 @@
+id,region,departement,centre_vote,bureau_vote,type_vote
+1,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 1,BV-DAK-01-01,National
+2,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 1,BV-DAK-01-02,National
+3,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 2,BV-DAK-02-01,National
+4,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 2,BV-DAK-02-02,National
+5,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 3,BV-DAK-03-01,National
+6,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 3,BV-DAK-03-02,National
+7,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 4,BV-DAK-04-01,National
+8,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 4,BV-DAK-04-02,National
+9,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 5,BV-DAK-05-01,National
+10,Dakar,Dakar-Plateau,Centre de Vote Dakar-Plateau 5,BV-DAK-05-02,National
+11,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 1,BV-GRA-01-01,National
+12,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 1,BV-GRA-01-02,National
+13,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 2,BV-GRA-02-01,National
+14,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 2,BV-GRA-02-02,National
+15,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 3,BV-GRA-03-01,National
+16,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 3,BV-GRA-03-02,National
+17,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 4,BV-GRA-04-01,National
+18,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 4,BV-GRA-04-02,National
+19,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 5,BV-GRA-05-01,National
+20,Dakar,Grand-Dakar,Centre de Vote Grand-Dakar 5,BV-GRA-05-02,National
+21,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 1,BV-PAR-01-01,National
+22,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 1,BV-PAR-01-02,National
+23,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 2,BV-PAR-02-01,National
+24,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 2,BV-PAR-02-02,National
+25,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 3,BV-PAR-03-01,National
+26,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 3,BV-PAR-03-02,National
+27,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 4,BV-PAR-04-01,National
+28,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 4,BV-PAR-04-02,National
+29,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 5,BV-PAR-05-01,National
+30,Dakar,Parcelles-Assainies,Centre de Vote Parcelles-Assainies 5,BV-PAR-05-02,National
+31,Dakar,Pikine,Centre de Vote Pikine 1,BV-PIK-01-01,National
+32,Dakar,Pikine,Centre de Vote Pikine 1,BV-PIK-01-02,National
+33,Dakar,Pikine,Centre de Vote Pikine 2,BV-PIK-02-01,National
+34,Dakar,Pikine,Centre de Vote Pikine 2,BV-PIK-02-02,National
+35,Dakar,Pikine,Centre de Vote Pikine 3,BV-PIK-03-01,National
+36,Dakar,Pikine,Centre de Vote Pikine 3,BV-PIK-03-02,National
+37,Dakar,Pikine,Centre de Vote Pikine 4,BV-PIK-04-01,National
+38,Dakar,Pikine,Centre de Vote Pikine 4,BV-PIK-04-02,National
+39,Dakar,Pikine,Centre de Vote Pikine 5,BV-PIK-05-01,National
+40,Dakar,Pikine,Centre de Vote Pikine 5,BV-PIK-05-02,National
+41,Dakar,Guédiawaye,Centre de Vote Guédiawaye 1,BV-GUÉ-01-01,National
+42,Dakar,Guédiawaye,Centre de Vote Guédiawaye 1,BV-GUÉ-01-02,National
+43,Dakar,Guédiawaye,Centre de Vote Guédiawaye 2,BV-GUÉ-02-01,National
+44,Dakar,Guédiawaye,Centre de Vote Guédiawaye 2,BV-GUÉ-02-02,National
+45,Dakar,Guédiawaye,Centre de Vote Guédiawaye 3,BV-GUÉ-03-01,National
+46,Dakar,Guédiawaye,Centre de Vote Guédiawaye 3,BV-GUÉ-03-02,National
+47,Dakar,Guédiawaye,Centre de Vote Guédiawaye 4,BV-GUÉ-04-01,National
+48,Dakar,Guédiawaye,Centre de Vote Guédiawaye 4,BV-GUÉ-04-02,National
+49,Dakar,Guédiawaye,Centre de Vote Guédiawaye 5,BV-GUÉ-05-01,National
+50,Dakar,Guédiawaye,Centre de Vote Guédiawaye 5,BV-GUÉ-05-02,National
+51,Dakar,Rufisque,Centre de Vote Rufisque 1,BV-RUF-01-01,National
+52,Dakar,Rufisque,Centre de Vote Rufisque 1,BV-RUF-01-02,National
+53,Dakar,Rufisque,Centre de Vote Rufisque 2,BV-RUF-02-01,National
+54,Dakar,Rufisque,Centre de Vote Rufisque 2,BV-RUF-02-02,National
+55,Dakar,Rufisque,Centre de Vote Rufisque 3,BV-RUF-03-01,National
+56,Dakar,Rufisque,Centre de Vote Rufisque 3,BV-RUF-03-02,National
+57,Dakar,Rufisque,Centre de Vote Rufisque 4,BV-RUF-04-01,National
+58,Dakar,Rufisque,Centre de Vote Rufisque 4,BV-RUF-04-02,National
+59,Dakar,Rufisque,Centre de Vote Rufisque 5,BV-RUF-05-01,National
+60,Dakar,Rufisque,Centre de Vote Rufisque 5,BV-RUF-05-02,National
+61,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 1,BV-THI-01-01,National
+62,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 1,BV-THI-01-02,National
+63,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 2,BV-THI-02-01,National
+64,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 2,BV-THI-02-02,National
+65,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 3,BV-THI-03-01,National
+66,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 3,BV-THI-03-02,National
+67,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 4,BV-THI-04-01,National
+68,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 4,BV-THI-04-02,National
+69,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 5,BV-THI-05-01,National
+70,Thiès,Thiès-Ville,Centre de Vote Thiès-Ville 5,BV-THI-05-02,National
+71,Thiès,Mbour,Centre de Vote Mbour 1,BV-MBO-01-01,National
+72,Thiès,Mbour,Centre de Vote Mbour 1,BV-MBO-01-02,National
+73,Thiès,Mbour,Centre de Vote Mbour 2,BV-MBO-02-01,National
+74,Thiès,Mbour,Centre de Vote Mbour 2,BV-MBO-02-02,National
+75,Thiès,Mbour,Centre de Vote Mbour 3,BV-MBO-03-01,National
+76,Thiès,Mbour,Centre de Vote Mbour 3,BV-MBO-03-02,National
+77,Thiès,Mbour,Centre de Vote Mbour 4,BV-MBO-04-01,National
+78,Thiès,Mbour,Centre de Vote Mbour 4,BV-MBO-04-02,National
+79,Thiès,Mbour,Centre de Vote Mbour 5,BV-MBO-05-01,National
+80,Thiès,Mbour,Centre de Vote Mbour 5,BV-MBO-05-02,National
+81,Thiès,Tivaouane,Centre de Vote Tivaouane 1,BV-TIV-01-01,National
+82,Thiès,Tivaouane,Centre de Vote Tivaouane 1,BV-TIV-01-02,National
+83,Thiès,Tivaouane,Centre de Vote Tivaouane 2,BV-TIV-02-01,National
+84,Thiès,Tivaouane,Centre de Vote Tivaouane 2,BV-TIV-02-02,National
+85,Thiès,Tivaouane,Centre de Vote Tivaouane 3,BV-TIV-03-01,National
+86,Thiès,Tivaouane,Centre de Vote Tivaouane 3,BV-TIV-03-02,National
+87,Thiès,Tivaouane,Centre de Vote Tivaouane 4,BV-TIV-04-01,National
+88,Thiès,Tivaouane,Centre de Vote Tivaouane 4,BV-TIV-04-02,National
+89,Thiès,Tivaouane,Centre de Vote Tivaouane 5,BV-TIV-05-01,National
+90,Thiès,Tivaouane,Centre de Vote Tivaouane 5,BV-TIV-05-02,National
+91,Diourbel,Diourbel,Centre de Vote Diourbel 1,BV-DIO-01-01,National
+92,Diourbel,Diourbel,Centre de Vote Diourbel 1,BV-DIO-01-02,National
+93,Diourbel,Diourbel,Centre de Vote Diourbel 2,BV-DIO-02-01,National
+94,Diourbel,Diourbel,Centre de Vote Diourbel 2,BV-DIO-02-02,National
+95,Diourbel,Diourbel,Centre de Vote Diourbel 3,BV-DIO-03-01,National
+96,Diourbel,Diourbel,Centre de Vote Diourbel 3,BV-DIO-03-02,National
+97,Diourbel,Diourbel,Centre de Vote Diourbel 4,BV-DIO-04-01,National
+98,Diourbel,Diourbel,Centre de Vote Diourbel 4,BV-DIO-04-02,National
+99,Diourbel,Diourbel,Centre de Vote Diourbel 5,BV-DIO-05-01,National
+100,Diourbel,Diourbel,Centre de Vote Diourbel 5,BV-DIO-05-02,National
+101,Diourbel,Bambey,Centre de Vote Bambey 1,BV-BAM-01-01,National
+102,Diourbel,Bambey,Centre de Vote Bambey 1,BV-BAM-01-02,National
+103,Diourbel,Bambey,Centre de Vote Bambey 2,BV-BAM-02-01,National
+104,Diourbel,Bambey,Centre de Vote Bambey 2,BV-BAM-02-02,National
+105,Diourbel,Bambey,Centre de Vote Bambey 3,BV-BAM-03-01,National
+106,Diourbel,Bambey,Centre de Vote Bambey 3,BV-BAM-03-02,National
+107,Diourbel,Bambey,Centre de Vote Bambey 4,BV-BAM-04-01,National
+108,Diourbel,Bambey,Centre de Vote Bambey 4,BV-BAM-04-02,National
+109,Diourbel,Bambey,Centre de Vote Bambey 5,BV-BAM-05-01,National
+110,Diourbel,Bambey,Centre de Vote Bambey 5,BV-BAM-05-02,National
+111,Diourbel,Mbacké,Centre de Vote Mbacké 1,BV-MBA-01-01,National
+112,Diourbel,Mbacké,Centre de Vote Mbacké 1,BV-MBA-01-02,National
+113,Diourbel,Mbacké,Centre de Vote Mbacké 2,BV-MBA-02-01,National
+114,Diourbel,Mbacké,Centre de Vote Mbacké 2,BV-MBA-02-02,National
+115,Diourbel,Mbacké,Centre de Vote Mbacké 3,BV-MBA-03-01,National
+116,Diourbel,Mbacké,Centre de Vote Mbacké 3,BV-MBA-03-02,National
+117,Diourbel,Mbacké,Centre de Vote Mbacké 4,BV-MBA-04-01,National
+118,Diourbel,Mbacké,Centre de Vote Mbacké 4,BV-MBA-04-02,National
+119,Diourbel,Mbacké,Centre de Vote Mbacké 5,BV-MBA-05-01,National
+120,Diourbel,Mbacké,Centre de Vote Mbacké 5,BV-MBA-05-02,National
+121,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 1,BV-SAI-01-01,National
+122,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 1,BV-SAI-01-02,National
+123,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 2,BV-SAI-02-01,National
+124,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 2,BV-SAI-02-02,National
+125,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 3,BV-SAI-03-01,National
+126,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 3,BV-SAI-03-02,National
+127,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 4,BV-SAI-04-01,National
+128,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 4,BV-SAI-04-02,National
+129,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 5,BV-SAI-05-01,National
+130,Saint-Louis,Saint-Louis,Centre de Vote Saint-Louis 5,BV-SAI-05-02,National
+131,Saint-Louis,Dagana,Centre de Vote Dagana 1,BV-DAG-01-01,National
+132,Saint-Louis,Dagana,Centre de Vote Dagana 1,BV-DAG-01-02,National
+133,Saint-Louis,Dagana,Centre de Vote Dagana 2,BV-DAG-02-01,National
+134,Saint-Louis,Dagana,Centre de Vote Dagana 2,BV-DAG-02-02,National
+135,Saint-Louis,Dagana,Centre de Vote Dagana 3,BV-DAG-03-01,National
+136,Saint-Louis,Dagana,Centre de Vote Dagana 3,BV-DAG-03-02,National
+137,Saint-Louis,Dagana,Centre de Vote Dagana 4,BV-DAG-04-01,National
+138,Saint-Louis,Dagana,Centre de Vote Dagana 4,BV-DAG-04-02,National
+139,Saint-Louis,Dagana,Centre de Vote Dagana 5,BV-DAG-05-01,National
+140,Saint-Louis,Dagana,Centre de Vote Dagana 5,BV-DAG-05-02,National
+141,Saint-Louis,Podor,Centre de Vote Podor 1,BV-POD-01-01,National
+142,Saint-Louis,Podor,Centre de Vote Podor 1,BV-POD-01-02,National
+143,Saint-Louis,Podor,Centre de Vote Podor 2,BV-POD-02-01,National
+144,Saint-Louis,Podor,Centre de Vote Podor 2,BV-POD-02-02,National
+145,Saint-Louis,Podor,Centre de Vote Podor 3,BV-POD-03-01,National
+146,Saint-Louis,Podor,Centre de Vote Podor 3,BV-POD-03-02,National
+147,Saint-Louis,Podor,Centre de Vote Podor 4,BV-POD-04-01,National
+148,Saint-Louis,Podor,Centre de Vote Podor 4,BV-POD-04-02,National
+149,Saint-Louis,Podor,Centre de Vote Podor 5,BV-POD-05-01,National
+150,Saint-Louis,Podor,Centre de Vote Podor 5,BV-POD-05-02,National
+151,Louga,Louga,Centre de Vote Louga 1,BV-LOU-01-01,National
+152,Louga,Louga,Centre de Vote Louga 1,BV-LOU-01-02,National
+153,Louga,Louga,Centre de Vote Louga 2,BV-LOU-02-01,National
+154,Louga,Louga,Centre de Vote Louga 2,BV-LOU-02-02,National
+155,Louga,Louga,Centre de Vote Louga 3,BV-LOU-03-01,National
+156,Louga,Louga,Centre de Vote Louga 3,BV-LOU-03-02,National
+157,Louga,Louga,Centre de Vote Louga 4,BV-LOU-04-01,National
+158,Louga,Louga,Centre de Vote Louga 4,BV-LOU-04-02,National
+159,Louga,Louga,Centre de Vote Louga 5,BV-LOU-05-01,National
+160,Louga,Louga,Centre de Vote Louga 5,BV-LOU-05-02,National
+161,Louga,Linguère,Centre de Vote Linguère 1,BV-LIN-01-01,National
+162,Louga,Linguère,Centre de Vote Linguère 1,BV-LIN-01-02,National
+163,Louga,Linguère,Centre de Vote Linguère 2,BV-LIN-02-01,National
+164,Louga,Linguère,Centre de Vote Linguère 2,BV-LIN-02-02,National
+165,Louga,Linguère,Centre de Vote Linguère 3,BV-LIN-03-01,National
+166,Louga,Linguère,Centre de Vote Linguère 3,BV-LIN-03-02,National
+167,Louga,Linguère,Centre de Vote Linguère 4,BV-LIN-04-01,National
+168,Louga,Linguère,Centre de Vote Linguère 4,BV-LIN-04-02,National
+169,Louga,Linguère,Centre de Vote Linguère 5,BV-LIN-05-01,National
+170,Louga,Linguère,Centre de Vote Linguère 5,BV-LIN-05-02,National
+171,Louga,Kébémer,Centre de Vote Kébémer 1,BV-KÉB-01-01,National
+172,Louga,Kébémer,Centre de Vote Kébémer 1,BV-KÉB-01-02,National
+173,Louga,Kébémer,Centre de Vote Kébémer 2,BV-KÉB-02-01,National
+174,Louga,Kébémer,Centre de Vote Kébémer 2,BV-KÉB-02-02,National
+175,Louga,Kébémer,Centre de Vote Kébémer 3,BV-KÉB-03-01,National
+176,Louga,Kébémer,Centre de Vote Kébémer 3,BV-KÉB-03-02,National
+177,Louga,Kébémer,Centre de Vote Kébémer 4,BV-KÉB-04-01,National
+178,Louga,Kébémer,Centre de Vote Kébémer 4,BV-KÉB-04-02,National
+179,Louga,Kébémer,Centre de Vote Kébémer 5,BV-KÉB-05-01,National
+180,Louga,Kébémer,Centre de Vote Kébémer 5,BV-KÉB-05-02,National
+181,Fatick,Fatick,Centre de Vote Fatick 1,BV-FAT-01-01,National
+182,Fatick,Fatick,Centre de Vote Fatick 1,BV-FAT-01-02,National
+183,Fatick,Fatick,Centre de Vote Fatick 2,BV-FAT-02-01,National
+184,Fatick,Fatick,Centre de Vote Fatick 2,BV-FAT-02-02,National
+185,Fatick,Fatick,Centre de Vote Fatick 3,BV-FAT-03-01,National
+186,Fatick,Fatick,Centre de Vote Fatick 3,BV-FAT-03-02,National
+187,Fatick,Fatick,Centre de Vote Fatick 4,BV-FAT-04-01,National
+188,Fatick,Fatick,Centre de Vote Fatick 4,BV-FAT-04-02,National
+189,Fatick,Fatick,Centre de Vote Fatick 5,BV-FAT-05-01,National
+190,Fatick,Fatick,Centre de Vote Fatick 5,BV-FAT-05-02,National
+191,Fatick,Foundiougne,Centre de Vote Foundiougne 1,BV-FOU-01-01,National
+192,Fatick,Foundiougne,Centre de Vote Foundiougne 1,BV-FOU-01-02,National
+193,Fatick,Foundiougne,Centre de Vote Foundiougne 2,BV-FOU-02-01,National
+194,Fatick,Foundiougne,Centre de Vote Foundiougne 2,BV-FOU-02-02,National
+195,Fatick,Foundiougne,Centre de Vote Foundiougne 3,BV-FOU-03-01,National
+196,Fatick,Foundiougne,Centre de Vote Foundiougne 3,BV-FOU-03-02,National
+197,Fatick,Foundiougne,Centre de Vote Foundiougne 4,BV-FOU-04-01,National
+198,Fatick,Foundiougne,Centre de Vote Foundiougne 4,BV-FOU-04-02,National
+199,Fatick,Foundiougne,Centre de Vote Foundiougne 5,BV-FOU-05-01,National
+200,Fatick,Foundiougne,Centre de Vote Foundiougne 5,BV-FOU-05-02,National
+201,Fatick,Gossas,Centre de Vote Gossas 1,BV-GOS-01-01,National
+202,Fatick,Gossas,Centre de Vote Gossas 1,BV-GOS-01-02,National
+203,Fatick,Gossas,Centre de Vote Gossas 2,BV-GOS-02-01,National
+204,Fatick,Gossas,Centre de Vote Gossas 2,BV-GOS-02-02,National
+205,Fatick,Gossas,Centre de Vote Gossas 3,BV-GOS-03-01,National
+206,Fatick,Gossas,Centre de Vote Gossas 3,BV-GOS-03-02,National
+207,Fatick,Gossas,Centre de Vote Gossas 4,BV-GOS-04-01,National
+208,Fatick,Gossas,Centre de Vote Gossas 4,BV-GOS-04-02,National
+209,Fatick,Gossas,Centre de Vote Gossas 5,BV-GOS-05-01,National
+210,Fatick,Gossas,Centre de Vote Gossas 5,BV-GOS-05-02,National
+211,Kaolack,Kaolack,Centre de Vote Kaolack 1,BV-KAO-01-01,National
+212,Kaolack,Kaolack,Centre de Vote Kaolack 1,BV-KAO-01-02,National
+213,Kaolack,Kaolack,Centre de Vote Kaolack 2,BV-KAO-02-01,National
+214,Kaolack,Kaolack,Centre de Vote Kaolack 2,BV-KAO-02-02,National
+215,Kaolack,Kaolack,Centre de Vote Kaolack 3,BV-KAO-03-01,National
+216,Kaolack,Kaolack,Centre de Vote Kaolack 3,BV-KAO-03-02,National
+217,Kaolack,Kaolack,Centre de Vote Kaolack 4,BV-KAO-04-01,National
+218,Kaolack,Kaolack,Centre de Vote Kaolack 4,BV-KAO-04-02,National
+219,Kaolack,Kaolack,Centre de Vote Kaolack 5,BV-KAO-05-01,National
+220,Kaolack,Kaolack,Centre de Vote Kaolack 5,BV-KAO-05-02,National
+221,Kaolack,Nioro,Centre de Vote Nioro 1,BV-NIO-01-01,National
+222,Kaolack,Nioro,Centre de Vote Nioro 1,BV-NIO-01-02,National
+223,Kaolack,Nioro,Centre de Vote Nioro 2,BV-NIO-02-01,National
+224,Kaolack,Nioro,Centre de Vote Nioro 2,BV-NIO-02-02,National
+225,Kaolack,Nioro,Centre de Vote Nioro 3,BV-NIO-03-01,National
+226,Kaolack,Nioro,Centre de Vote Nioro 3,BV-NIO-03-02,National
+227,Kaolack,Nioro,Centre de Vote Nioro 4,BV-NIO-04-01,National
+228,Kaolack,Nioro,Centre de Vote Nioro 4,BV-NIO-04-02,National
+229,Kaolack,Nioro,Centre de Vote Nioro 5,BV-NIO-05-01,National
+230,Kaolack,Nioro,Centre de Vote Nioro 5,BV-NIO-05-02,National
+231,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 1,BV-GUI-01-01,National
+232,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 1,BV-GUI-01-02,National
+233,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 2,BV-GUI-02-01,National
+234,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 2,BV-GUI-02-02,National
+235,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 3,BV-GUI-03-01,National
+236,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 3,BV-GUI-03-02,National
+237,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 4,BV-GUI-04-01,National
+238,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 4,BV-GUI-04-02,National
+239,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 5,BV-GUI-05-01,National
+240,Kaolack,Guinguinéo,Centre de Vote Guinguinéo 5,BV-GUI-05-02,National
+241,Kaffrine,Kaffrine,Centre de Vote Kaffrine 1,BV-KAF-01-01,National
+242,Kaffrine,Kaffrine,Centre de Vote Kaffrine 1,BV-KAF-01-02,National
+243,Kaffrine,Kaffrine,Centre de Vote Kaffrine 2,BV-KAF-02-01,National
+244,Kaffrine,Kaffrine,Centre de Vote Kaffrine 2,BV-KAF-02-02,National
+245,Kaffrine,Kaffrine,Centre de Vote Kaffrine 3,BV-KAF-03-01,National
+246,Kaffrine,Kaffrine,Centre de Vote Kaffrine 3,BV-KAF-03-02,National
+247,Kaffrine,Kaffrine,Centre de Vote Kaffrine 4,BV-KAF-04-01,National
+248,Kaffrine,Kaffrine,Centre de Vote Kaffrine 4,BV-KAF-04-02,National
+249,Kaffrine,Kaffrine,Centre de Vote Kaffrine 5,BV-KAF-05-01,National
+250,Kaffrine,Kaffrine,Centre de Vote Kaffrine 5,BV-KAF-05-02,National
+251,Kaffrine,Birkilane,Centre de Vote Birkilane 1,BV-BIR-01-01,National
+252,Kaffrine,Birkilane,Centre de Vote Birkilane 1,BV-BIR-01-02,National
+253,Kaffrine,Birkilane,Centre de Vote Birkilane 2,BV-BIR-02-01,National
+254,Kaffrine,Birkilane,Centre de Vote Birkilane 2,BV-BIR-02-02,National
+255,Kaffrine,Birkilane,Centre de Vote Birkilane 3,BV-BIR-03-01,National
+256,Kaffrine,Birkilane,Centre de Vote Birkilane 3,BV-BIR-03-02,National
+257,Kaffrine,Birkilane,Centre de Vote Birkilane 4,BV-BIR-04-01,National
+258,Kaffrine,Birkilane,Centre de Vote Birkilane 4,BV-BIR-04-02,National
+259,Kaffrine,Birkilane,Centre de Vote Birkilane 5,BV-BIR-05-01,National
+260,Kaffrine,Birkilane,Centre de Vote Birkilane 5,BV-BIR-05-02,National
+261,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 1,BV-MAL-01-01,National
+262,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 1,BV-MAL-01-02,National
+263,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 2,BV-MAL-02-01,National
+264,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 2,BV-MAL-02-02,National
+265,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 3,BV-MAL-03-01,National
+266,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 3,BV-MAL-03-02,National
+267,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 4,BV-MAL-04-01,National
+268,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 4,BV-MAL-04-02,National
+269,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 5,BV-MAL-05-01,National
+270,Kaffrine,Malem Hodar,Centre de Vote Malem Hodar 5,BV-MAL-05-02,National
+271,Kaffrine,Koungheul,Centre de Vote Koungheul 1,BV-KOU-01-01,National
+272,Kaffrine,Koungheul,Centre de Vote Koungheul 1,BV-KOU-01-02,National
+273,Kaffrine,Koungheul,Centre de Vote Koungheul 2,BV-KOU-02-01,National
+274,Kaffrine,Koungheul,Centre de Vote Koungheul 2,BV-KOU-02-02,National
+275,Kaffrine,Koungheul,Centre de Vote Koungheul 3,BV-KOU-03-01,National
+276,Kaffrine,Koungheul,Centre de Vote Koungheul 3,BV-KOU-03-02,National
+277,Kaffrine,Koungheul,Centre de Vote Koungheul 4,BV-KOU-04-01,National
+278,Kaffrine,Koungheul,Centre de Vote Koungheul 4,BV-KOU-04-02,National
+279,Kaffrine,Koungheul,Centre de Vote Koungheul 5,BV-KOU-05-01,National
+280,Kaffrine,Koungheul,Centre de Vote Koungheul 5,BV-KOU-05-02,National
+281,Tambacounda,Tambacounda,Centre de Vote Tambacounda 1,BV-TAM-01-01,National
+282,Tambacounda,Tambacounda,Centre de Vote Tambacounda 1,BV-TAM-01-02,National
+283,Tambacounda,Tambacounda,Centre de Vote Tambacounda 2,BV-TAM-02-01,National
+284,Tambacounda,Tambacounda,Centre de Vote Tambacounda 2,BV-TAM-02-02,National
+285,Tambacounda,Tambacounda,Centre de Vote Tambacounda 3,BV-TAM-03-01,National
+286,Tambacounda,Tambacounda,Centre de Vote Tambacounda 3,BV-TAM-03-02,National
+287,Tambacounda,Tambacounda,Centre de Vote Tambacounda 4,BV-TAM-04-01,National
+288,Tambacounda,Tambacounda,Centre de Vote Tambacounda 4,BV-TAM-04-02,National
+289,Tambacounda,Tambacounda,Centre de Vote Tambacounda 5,BV-TAM-05-01,National
+290,Tambacounda,Tambacounda,Centre de Vote Tambacounda 5,BV-TAM-05-02,National
+291,Tambacounda,Bakel,Centre de Vote Bakel 1,BV-BAK-01-01,National
+292,Tambacounda,Bakel,Centre de Vote Bakel 1,BV-BAK-01-02,National
+293,Tambacounda,Bakel,Centre de Vote Bakel 2,BV-BAK-02-01,National
+294,Tambacounda,Bakel,Centre de Vote Bakel 2,BV-BAK-02-02,National
+295,Tambacounda,Bakel,Centre de Vote Bakel 3,BV-BAK-03-01,National
+296,Tambacounda,Bakel,Centre de Vote Bakel 3,BV-BAK-03-02,National
+297,Tambacounda,Bakel,Centre de Vote Bakel 4,BV-BAK-04-01,National
+298,Tambacounda,Bakel,Centre de Vote Bakel 4,BV-BAK-04-02,National
+299,Tambacounda,Bakel,Centre de Vote Bakel 5,BV-BAK-05-01,National
+300,Tambacounda,Bakel,Centre de Vote Bakel 5,BV-BAK-05-02,National
+301,Tambacounda,Goudiry,Centre de Vote Goudiry 1,BV-GOU-01-01,National
+302,Tambacounda,Goudiry,Centre de Vote Goudiry 1,BV-GOU-01-02,National
+303,Tambacounda,Goudiry,Centre de Vote Goudiry 2,BV-GOU-02-01,National
+304,Tambacounda,Goudiry,Centre de Vote Goudiry 2,BV-GOU-02-02,National
+305,Tambacounda,Goudiry,Centre de Vote Goudiry 3,BV-GOU-03-01,National
+306,Tambacounda,Goudiry,Centre de Vote Goudiry 3,BV-GOU-03-02,National
+307,Tambacounda,Goudiry,Centre de Vote Goudiry 4,BV-GOU-04-01,National
+308,Tambacounda,Goudiry,Centre de Vote Goudiry 4,BV-GOU-04-02,National
+309,Tambacounda,Goudiry,Centre de Vote Goudiry 5,BV-GOU-05-01,National
+310,Tambacounda,Goudiry,Centre de Vote Goudiry 5,BV-GOU-05-02,National
+311,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 1,BV-KOU-01-01,National
+312,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 1,BV-KOU-01-02,National
+313,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 2,BV-KOU-02-01,National
+314,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 2,BV-KOU-02-02,National
+315,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 3,BV-KOU-03-01,National
+316,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 3,BV-KOU-03-02,National
+317,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 4,BV-KOU-04-01,National
+318,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 4,BV-KOU-04-02,National
+319,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 5,BV-KOU-05-01,National
+320,Tambacounda,Koumpentoum,Centre de Vote Koumpentoum 5,BV-KOU-05-02,National
+321,Kédougou,Kédougou,Centre de Vote Kédougou 1,BV-KÉD-01-01,National
+322,Kédougou,Kédougou,Centre de Vote Kédougou 1,BV-KÉD-01-02,National
+323,Kédougou,Kédougou,Centre de Vote Kédougou 2,BV-KÉD-02-01,National
+324,Kédougou,Kédougou,Centre de Vote Kédougou 2,BV-KÉD-02-02,National
+325,Kédougou,Kédougou,Centre de Vote Kédougou 3,BV-KÉD-03-01,National
+326,Kédougou,Kédougou,Centre de Vote Kédougou 3,BV-KÉD-03-02,National
+327,Kédougou,Kédougou,Centre de Vote Kédougou 4,BV-KÉD-04-01,National
+328,Kédougou,Kédougou,Centre de Vote Kédougou 4,BV-KÉD-04-02,National
+329,Kédougou,Kédougou,Centre de Vote Kédougou 5,BV-KÉD-05-01,National
+330,Kédougou,Kédougou,Centre de Vote Kédougou 5,BV-KÉD-05-02,National
+331,Kédougou,Salémata,Centre de Vote Salémata 1,BV-SAL-01-01,National
+332,Kédougou,Salémata,Centre de Vote Salémata 1,BV-SAL-01-02,National
+333,Kédougou,Salémata,Centre de Vote Salémata 2,BV-SAL-02-01,National
+334,Kédougou,Salémata,Centre de Vote Salémata 2,BV-SAL-02-02,National
+335,Kédougou,Salémata,Centre de Vote Salémata 3,BV-SAL-03-01,National
+336,Kédougou,Salémata,Centre de Vote Salémata 3,BV-SAL-03-02,National
+337,Kédougou,Salémata,Centre de Vote Salémata 4,BV-SAL-04-01,National
+338,Kédougou,Salémata,Centre de Vote Salémata 4,BV-SAL-04-02,National
+339,Kédougou,Salémata,Centre de Vote Salémata 5,BV-SAL-05-01,National
+340,Kédougou,Salémata,Centre de Vote Salémata 5,BV-SAL-05-02,National
+341,Kédougou,Saraya,Centre de Vote Saraya 1,BV-SAR-01-01,National
+342,Kédougou,Saraya,Centre de Vote Saraya 1,BV-SAR-01-02,National
+343,Kédougou,Saraya,Centre de Vote Saraya 2,BV-SAR-02-01,National
+344,Kédougou,Saraya,Centre de Vote Saraya 2,BV-SAR-02-02,National
+345,Kédougou,Saraya,Centre de Vote Saraya 3,BV-SAR-03-01,National
+346,Kédougou,Saraya,Centre de Vote Saraya 3,BV-SAR-03-02,National
+347,Kédougou,Saraya,Centre de Vote Saraya 4,BV-SAR-04-01,National
+348,Kédougou,Saraya,Centre de Vote Saraya 4,BV-SAR-04-02,National
+349,Kédougou,Saraya,Centre de Vote Saraya 5,BV-SAR-05-01,National
+350,Kédougou,Saraya,Centre de Vote Saraya 5,BV-SAR-05-02,National
+351,Kolda,Kolda,Centre de Vote Kolda 1,BV-KOL-01-01,National
+352,Kolda,Kolda,Centre de Vote Kolda 1,BV-KOL-01-02,National
+353,Kolda,Kolda,Centre de Vote Kolda 2,BV-KOL-02-01,National
+354,Kolda,Kolda,Centre de Vote Kolda 2,BV-KOL-02-02,National
+355,Kolda,Kolda,Centre de Vote Kolda 3,BV-KOL-03-01,National
+356,Kolda,Kolda,Centre de Vote Kolda 3,BV-KOL-03-02,National
+357,Kolda,Kolda,Centre de Vote Kolda 4,BV-KOL-04-01,National
+358,Kolda,Kolda,Centre de Vote Kolda 4,BV-KOL-04-02,National
+359,Kolda,Kolda,Centre de Vote Kolda 5,BV-KOL-05-01,National
+360,Kolda,Kolda,Centre de Vote Kolda 5,BV-KOL-05-02,National
+361,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 1,BV-MÉD-01-01,National
+362,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 1,BV-MÉD-01-02,National
+363,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 2,BV-MÉD-02-01,National
+364,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 2,BV-MÉD-02-02,National
+365,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 3,BV-MÉD-03-01,National
+366,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 3,BV-MÉD-03-02,National
+367,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 4,BV-MÉD-04-01,National
+368,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 4,BV-MÉD-04-02,National
+369,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 5,BV-MÉD-05-01,National
+370,Kolda,Médina Yoro Foulah,Centre de Vote Médina Yoro Foulah 5,BV-MÉD-05-02,National
+371,Kolda,Vélingara,Centre de Vote Vélingara 1,BV-VÉL-01-01,National
+372,Kolda,Vélingara,Centre de Vote Vélingara 1,BV-VÉL-01-02,National
+373,Kolda,Vélingara,Centre de Vote Vélingara 2,BV-VÉL-02-01,National
+374,Kolda,Vélingara,Centre de Vote Vélingara 2,BV-VÉL-02-02,National
+375,Kolda,Vélingara,Centre de Vote Vélingara 3,BV-VÉL-03-01,National
+376,Kolda,Vélingara,Centre de Vote Vélingara 3,BV-VÉL-03-02,National
+377,Kolda,Vélingara,Centre de Vote Vélingara 4,BV-VÉL-04-01,National
+378,Kolda,Vélingara,Centre de Vote Vélingara 4,BV-VÉL-04-02,National
+379,Kolda,Vélingara,Centre de Vote Vélingara 5,BV-VÉL-05-01,National
+380,Kolda,Vélingara,Centre de Vote Vélingara 5,BV-VÉL-05-02,National
+381,Sédhiou,Sédhiou,Centre de Vote Sédhiou 1,BV-SÉD-01-01,National
+382,Sédhiou,Sédhiou,Centre de Vote Sédhiou 1,BV-SÉD-01-02,National
+383,Sédhiou,Sédhiou,Centre de Vote Sédhiou 2,BV-SÉD-02-01,National
+384,Sédhiou,Sédhiou,Centre de Vote Sédhiou 2,BV-SÉD-02-02,National
+385,Sédhiou,Sédhiou,Centre de Vote Sédhiou 3,BV-SÉD-03-01,National
+386,Sédhiou,Sédhiou,Centre de Vote Sédhiou 3,BV-SÉD-03-02,National
+387,Sédhiou,Sédhiou,Centre de Vote Sédhiou 4,BV-SÉD-04-01,National
+388,Sédhiou,Sédhiou,Centre de Vote Sédhiou 4,BV-SÉD-04-02,National
+389,Sédhiou,Sédhiou,Centre de Vote Sédhiou 5,BV-SÉD-05-01,National
+390,Sédhiou,Sédhiou,Centre de Vote Sédhiou 5,BV-SÉD-05-02,National
+391,Sédhiou,Bounkiling,Centre de Vote Bounkiling 1,BV-BOU-01-01,National
+392,Sédhiou,Bounkiling,Centre de Vote Bounkiling 1,BV-BOU-01-02,National
+393,Sédhiou,Bounkiling,Centre de Vote Bounkiling 2,BV-BOU-02-01,National
+394,Sédhiou,Bounkiling,Centre de Vote Bounkiling 2,BV-BOU-02-02,National
+395,Sédhiou,Bounkiling,Centre de Vote Bounkiling 3,BV-BOU-03-01,National
+396,Sédhiou,Bounkiling,Centre de Vote Bounkiling 3,BV-BOU-03-02,National
+397,Sédhiou,Bounkiling,Centre de Vote Bounkiling 4,BV-BOU-04-01,National
+398,Sédhiou,Bounkiling,Centre de Vote Bounkiling 4,BV-BOU-04-02,National
+399,Sédhiou,Bounkiling,Centre de Vote Bounkiling 5,BV-BOU-05-01,National
+400,Sédhiou,Bounkiling,Centre de Vote Bounkiling 5,BV-BOU-05-02,National
+401,Sédhiou,Goudomp,Centre de Vote Goudomp 1,BV-GOU-01-01,National
+402,Sédhiou,Goudomp,Centre de Vote Goudomp 1,BV-GOU-01-02,National
+403,Sédhiou,Goudomp,Centre de Vote Goudomp 2,BV-GOU-02-01,National
+404,Sédhiou,Goudomp,Centre de Vote Goudomp 2,BV-GOU-02-02,National
+405,Sédhiou,Goudomp,Centre de Vote Goudomp 3,BV-GOU-03-01,National
+406,Sédhiou,Goudomp,Centre de Vote Goudomp 3,BV-GOU-03-02,National
+407,Sédhiou,Goudomp,Centre de Vote Goudomp 4,BV-GOU-04-01,National
+408,Sédhiou,Goudomp,Centre de Vote Goudomp 4,BV-GOU-04-02,National
+409,Sédhiou,Goudomp,Centre de Vote Goudomp 5,BV-GOU-05-01,National
+410,Sédhiou,Goudomp,Centre de Vote Goudomp 5,BV-GOU-05-02,National
+411,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 1,BV-ZIG-01-01,National
+412,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 1,BV-ZIG-01-02,National
+413,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 2,BV-ZIG-02-01,National
+414,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 2,BV-ZIG-02-02,National
+415,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 3,BV-ZIG-03-01,National
+416,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 3,BV-ZIG-03-02,National
+417,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 4,BV-ZIG-04-01,National
+418,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 4,BV-ZIG-04-02,National
+419,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 5,BV-ZIG-05-01,National
+420,Ziguinchor,Ziguinchor,Centre de Vote Ziguinchor 5,BV-ZIG-05-02,National
+421,Ziguinchor,Bignona,Centre de Vote Bignona 1,BV-BIG-01-01,National
+422,Ziguinchor,Bignona,Centre de Vote Bignona 1,BV-BIG-01-02,National
+423,Ziguinchor,Bignona,Centre de Vote Bignona 2,BV-BIG-02-01,National
+424,Ziguinchor,Bignona,Centre de Vote Bignona 2,BV-BIG-02-02,National
+425,Ziguinchor,Bignona,Centre de Vote Bignona 3,BV-BIG-03-01,National
+426,Ziguinchor,Bignona,Centre de Vote Bignona 3,BV-BIG-03-02,National
+427,Ziguinchor,Bignona,Centre de Vote Bignona 4,BV-BIG-04-01,National
+428,Ziguinchor,Bignona,Centre de Vote Bignona 4,BV-BIG-04-02,National
+429,Ziguinchor,Bignona,Centre de Vote Bignona 5,BV-BIG-05-01,National
+430,Ziguinchor,Bignona,Centre de Vote Bignona 5,BV-BIG-05-02,National
+431,Ziguinchor,Oussouye,Centre de Vote Oussouye 1,BV-OUS-01-01,National
+432,Ziguinchor,Oussouye,Centre de Vote Oussouye 1,BV-OUS-01-02,National
+433,Ziguinchor,Oussouye,Centre de Vote Oussouye 2,BV-OUS-02-01,National
+434,Ziguinchor,Oussouye,Centre de Vote Oussouye 2,BV-OUS-02-02,National
+435,Ziguinchor,Oussouye,Centre de Vote Oussouye 3,BV-OUS-03-01,National
+436,Ziguinchor,Oussouye,Centre de Vote Oussouye 3,BV-OUS-03-02,National
+437,Ziguinchor,Oussouye,Centre de Vote Oussouye 4,BV-OUS-04-01,National
+438,Ziguinchor,Oussouye,Centre de Vote Oussouye 4,BV-OUS-04-02,National
+439,Ziguinchor,Oussouye,Centre de Vote Oussouye 5,BV-OUS-05-01,National
+440,Ziguinchor,Oussouye,Centre de Vote Oussouye 5,BV-OUS-05-02,National
+441,Matam,Matam,Centre de Vote Matam 1,BV-MAT-01-01,National
+442,Matam,Matam,Centre de Vote Matam 1,BV-MAT-01-02,National
+443,Matam,Matam,Centre de Vote Matam 2,BV-MAT-02-01,National
+444,Matam,Matam,Centre de Vote Matam 2,BV-MAT-02-02,National
+445,Matam,Matam,Centre de Vote Matam 3,BV-MAT-03-01,National
+446,Matam,Matam,Centre de Vote Matam 3,BV-MAT-03-02,National
+447,Matam,Matam,Centre de Vote Matam 4,BV-MAT-04-01,National
+448,Matam,Matam,Centre de Vote Matam 4,BV-MAT-04-02,National
+449,Matam,Matam,Centre de Vote Matam 5,BV-MAT-05-01,National
+450,Matam,Matam,Centre de Vote Matam 5,BV-MAT-05-02,National
+451,Matam,Kanel,Centre de Vote Kanel 1,BV-KAN-01-01,National
+452,Matam,Kanel,Centre de Vote Kanel 1,BV-KAN-01-02,National
+453,Matam,Kanel,Centre de Vote Kanel 2,BV-KAN-02-01,National
+454,Matam,Kanel,Centre de Vote Kanel 2,BV-KAN-02-02,National
+455,Matam,Kanel,Centre de Vote Kanel 3,BV-KAN-03-01,National
+456,Matam,Kanel,Centre de Vote Kanel 3,BV-KAN-03-02,National
+457,Matam,Kanel,Centre de Vote Kanel 4,BV-KAN-04-01,National
+458,Matam,Kanel,Centre de Vote Kanel 4,BV-KAN-04-02,National
+459,Matam,Kanel,Centre de Vote Kanel 5,BV-KAN-05-01,National
+460,Matam,Kanel,Centre de Vote Kanel 5,BV-KAN-05-02,National
+461,Matam,Ranérou,Centre de Vote Ranérou 1,BV-RAN-01-01,National
+462,Matam,Ranérou,Centre de Vote Ranérou 1,BV-RAN-01-02,National
+463,Matam,Ranérou,Centre de Vote Ranérou 2,BV-RAN-02-01,National
+464,Matam,Ranérou,Centre de Vote Ranérou 2,BV-RAN-02-02,National
+465,Matam,Ranérou,Centre de Vote Ranérou 3,BV-RAN-03-01,National
+466,Matam,Ranérou,Centre de Vote Ranérou 3,BV-RAN-03-02,National
+467,Matam,Ranérou,Centre de Vote Ranérou 4,BV-RAN-04-01,National
+468,Matam,Ranérou,Centre de Vote Ranérou 4,BV-RAN-04-02,National
+469,Matam,Ranérou,Centre de Vote Ranérou 5,BV-RAN-05-01,National
+470,Matam,Ranérou,Centre de Vote Ranérou 5,BV-RAN-05-02,National
+471,Diaspora,France,Consulat France 1,BV-FRA-01-01,Diaspora
+472,Diaspora,France,Consulat France 1,BV-FRA-01-02,Diaspora
+473,Diaspora,France,Consulat France 2,BV-FRA-02-01,Diaspora
+474,Diaspora,France,Consulat France 2,BV-FRA-02-02,Diaspora
+475,Diaspora,France,Consulat France 3,BV-FRA-03-01,Diaspora
+476,Diaspora,France,Consulat France 3,BV-FRA-03-02,Diaspora
+477,Diaspora,France,Consulat France 4,BV-FRA-04-01,Diaspora
+478,Diaspora,France,Consulat France 4,BV-FRA-04-02,Diaspora
+479,Diaspora,France,Consulat France 5,BV-FRA-05-01,Diaspora
+480,Diaspora,France,Consulat France 5,BV-FRA-05-02,Diaspora
+481,Diaspora,Italie,Consulat Italie 1,BV-ITA-01-01,Diaspora
+482,Diaspora,Italie,Consulat Italie 1,BV-ITA-01-02,Diaspora
+483,Diaspora,Italie,Consulat Italie 2,BV-ITA-02-01,Diaspora
+484,Diaspora,Italie,Consulat Italie 2,BV-ITA-02-02,Diaspora
+485,Diaspora,Italie,Consulat Italie 3,BV-ITA-03-01,Diaspora
+486,Diaspora,Italie,Consulat Italie 3,BV-ITA-03-02,Diaspora
+487,Diaspora,Italie,Consulat Italie 4,BV-ITA-04-01,Diaspora
+488,Diaspora,Italie,Consulat Italie 4,BV-ITA-04-02,Diaspora
+489,Diaspora,Italie,Consulat Italie 5,BV-ITA-05-01,Diaspora
+490,Diaspora,Italie,Consulat Italie 5,BV-ITA-05-02,Diaspora
+491,Diaspora,Espagne,Consulat Espagne 1,BV-ESP-01-01,Diaspora
+492,Diaspora,Espagne,Consulat Espagne 1,BV-ESP-01-02,Diaspora
+493,Diaspora,Espagne,Consulat Espagne 2,BV-ESP-02-01,Diaspora
+494,Diaspora,Espagne,Consulat Espagne 2,BV-ESP-02-02,Diaspora
+495,Diaspora,Espagne,Consulat Espagne 3,BV-ESP-03-01,Diaspora
+496,Diaspora,Espagne,Consulat Espagne 3,BV-ESP-03-02,Diaspora
+497,Diaspora,Espagne,Consulat Espagne 4,BV-ESP-04-01,Diaspora
+498,Diaspora,Espagne,Consulat Espagne 4,BV-ESP-04-02,Diaspora
+499,Diaspora,Espagne,Consulat Espagne 5,BV-ESP-05-01,Diaspora
+500,Diaspora,Espagne,Consulat Espagne 5,BV-ESP-05-02,Diaspora
+501,Diaspora,Belgique,Consulat Belgique 1,BV-BEL-01-01,Diaspora
+502,Diaspora,Belgique,Consulat Belgique 1,BV-BEL-01-02,Diaspora
+503,Diaspora,Belgique,Consulat Belgique 2,BV-BEL-02-01,Diaspora
+504,Diaspora,Belgique,Consulat Belgique 2,BV-BEL-02-02,Diaspora
+505,Diaspora,Belgique,Consulat Belgique 3,BV-BEL-03-01,Diaspora
+506,Diaspora,Belgique,Consulat Belgique 3,BV-BEL-03-02,Diaspora
+507,Diaspora,Belgique,Consulat Belgique 4,BV-BEL-04-01,Diaspora
+508,Diaspora,Belgique,Consulat Belgique 4,BV-BEL-04-02,Diaspora
+509,Diaspora,Belgique,Consulat Belgique 5,BV-BEL-05-01,Diaspora
+510,Diaspora,Belgique,Consulat Belgique 5,BV-BEL-05-02,Diaspora
+511,Diaspora,Allemagne,Consulat Allemagne 1,BV-ALL-01-01,Diaspora
+512,Diaspora,Allemagne,Consulat Allemagne 1,BV-ALL-01-02,Diaspora
+513,Diaspora,Allemagne,Consulat Allemagne 2,BV-ALL-02-01,Diaspora
+514,Diaspora,Allemagne,Consulat Allemagne 2,BV-ALL-02-02,Diaspora
+515,Diaspora,Allemagne,Consulat Allemagne 3,BV-ALL-03-01,Diaspora
+516,Diaspora,Allemagne,Consulat Allemagne 3,BV-ALL-03-02,Diaspora
+517,Diaspora,Allemagne,Consulat Allemagne 4,BV-ALL-04-01,Diaspora
+518,Diaspora,Allemagne,Consulat Allemagne 4,BV-ALL-04-02,Diaspora
+519,Diaspora,Allemagne,Consulat Allemagne 5,BV-ALL-05-01,Diaspora
+520,Diaspora,Allemagne,Consulat Allemagne 5,BV-ALL-05-02,Diaspora
+521,Diaspora,États-Unis,Consulat États-Unis 1,BV-ÉTA-01-01,Diaspora
+522,Diaspora,États-Unis,Consulat États-Unis 1,BV-ÉTA-01-02,Diaspora
+523,Diaspora,États-Unis,Consulat États-Unis 2,BV-ÉTA-02-01,Diaspora
+524,Diaspora,États-Unis,Consulat États-Unis 2,BV-ÉTA-02-02,Diaspora
+525,Diaspora,États-Unis,Consulat États-Unis 3,BV-ÉTA-03-01,Diaspora
+526,Diaspora,États-Unis,Consulat États-Unis 3,BV-ÉTA-03-02,Diaspora
+527,Diaspora,États-Unis,Consulat États-Unis 4,BV-ÉTA-04-01,Diaspora
+528,Diaspora,États-Unis,Consulat États-Unis 4,BV-ÉTA-04-02,Diaspora
+529,Diaspora,États-Unis,Consulat États-Unis 5,BV-ÉTA-05-01,Diaspora
+530,Diaspora,États-Unis,Consulat États-Unis 5,BV-ÉTA-05-02,Diaspora
+531,Diaspora,Canada,Consulat Canada 1,BV-CAN-01-01,Diaspora
+532,Diaspora,Canada,Consulat Canada 1,BV-CAN-01-02,Diaspora
+533,Diaspora,Canada,Consulat Canada 2,BV-CAN-02-01,Diaspora
+534,Diaspora,Canada,Consulat Canada 2,BV-CAN-02-02,Diaspora
+535,Diaspora,Canada,Consulat Canada 3,BV-CAN-03-01,Diaspora
+536,Diaspora,Canada,Consulat Canada 3,BV-CAN-03-02,Diaspora
+537,Diaspora,Canada,Consulat Canada 4,BV-CAN-04-01,Diaspora
+538,Diaspora,Canada,Consulat Canada 4,BV-CAN-04-02,Diaspora
+539,Diaspora,Canada,Consulat Canada 5,BV-CAN-05-01,Diaspora
+540,Diaspora,Canada,Consulat Canada 5,BV-CAN-05-02,Diaspora
+541,Diaspora,Maroc,Consulat Maroc 1,BV-MAR-01-01,Diaspora
+542,Diaspora,Maroc,Consulat Maroc 1,BV-MAR-01-02,Diaspora
+543,Diaspora,Maroc,Consulat Maroc 2,BV-MAR-02-01,Diaspora
+544,Diaspora,Maroc,Consulat Maroc 2,BV-MAR-02-02,Diaspora
+545,Diaspora,Maroc,Consulat Maroc 3,BV-MAR-03-01,Diaspora
+546,Diaspora,Maroc,Consulat Maroc 3,BV-MAR-03-02,Diaspora
+547,Diaspora,Maroc,Consulat Maroc 4,BV-MAR-04-01,Diaspora
+548,Diaspora,Maroc,Consulat Maroc 4,BV-MAR-04-02,Diaspora
+549,Diaspora,Maroc,Consulat Maroc 5,BV-MAR-05-01,Diaspora
+550,Diaspora,Maroc,Consulat Maroc 5,BV-MAR-05-02,Diaspora
+551,Diaspora,Gabon,Consulat Gabon 1,BV-GAB-01-01,Diaspora
+552,Diaspora,Gabon,Consulat Gabon 1,BV-GAB-01-02,Diaspora
+553,Diaspora,Gabon,Consulat Gabon 2,BV-GAB-02-01,Diaspora
+554,Diaspora,Gabon,Consulat Gabon 2,BV-GAB-02-02,Diaspora
+555,Diaspora,Gabon,Consulat Gabon 3,BV-GAB-03-01,Diaspora
+556,Diaspora,Gabon,Consulat Gabon 3,BV-GAB-03-02,Diaspora
+557,Diaspora,Gabon,Consulat Gabon 4,BV-GAB-04-01,Diaspora
+558,Diaspora,Gabon,Consulat Gabon 4,BV-GAB-04-02,Diaspora
+559,Diaspora,Gabon,Consulat Gabon 5,BV-GAB-05-01,Diaspora
+560,Diaspora,Gabon,Consulat Gabon 5,BV-GAB-05-02,Diaspora
+561,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 1,BV-CÔT-01-01,Diaspora
+562,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 1,BV-CÔT-01-02,Diaspora
+563,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 2,BV-CÔT-02-01,Diaspora
+564,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 2,BV-CÔT-02-02,Diaspora
+565,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 3,BV-CÔT-03-01,Diaspora
+566,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 3,BV-CÔT-03-02,Diaspora
+567,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 4,BV-CÔT-04-01,Diaspora
+568,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 4,BV-CÔT-04-02,Diaspora
+569,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 5,BV-CÔT-05-01,Diaspora
+570,Diaspora,Côte d'Ivoire,Consulat Côte d'Ivoire 5,BV-CÔT-05-02,Diaspora
